@@ -80,3 +80,39 @@
     font-size: 18px;
     margin: 10px;
 }
+.box{
+    width: 230px;
+    height: 280px;
+    box-shadow: 10px 10px 20px rgb(60, 59, 59);
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 18px;
+
+}
+.icon{
+    width: 70px;
+
+}
+.btn-box{
+    background-color: rgb(78, 75, 75);
+    margin-top: 10px;
+}
+.box-head{
+    padding: 10px;
+}
+.box-description{
+    padding: 10px;
+}
+.service-container{
+    display: flex;
+    justify-content:space-evenly;
+    padding: 20px;
+}
+.section-bg{
+    background-color: black;
+}
+.section-hd{
+    color: white;
+    padding: 20px;
+}
