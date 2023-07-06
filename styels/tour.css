@@ -6,3 +6,20 @@
     color:rgb(166, 181, 29);
     cursor:pointer
 }
+.container{
+    display: flex;  
+    justify-content:center;
+    align-items: center;
+    flex-direction:row;
+}
+.box{
+    padding:20px;
+    background-color: rgb(3, 82, 86);
+    width: 120px;
+}
+.box2{
+    background-color: rgb(52, 6, 6);
+}
+.box3{
+    background-color: rgb(79, 154, 3);
+}
